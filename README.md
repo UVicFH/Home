@@ -1,2 +1,2 @@
-# Home
-UVic Formula Hybrid Documentation Project Management
+# UVic Hybrid Home
+In this repository you'll find documenation in [the wiki](https://github.com/UVicFH/Home/wiki), [tasks](https://github.com/UVicFH/Home/issues), and [project management](https://github.com/UVicFH/Home/projects).
