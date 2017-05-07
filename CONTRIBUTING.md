@@ -10,6 +10,8 @@ __Status__ of issue (may or may not use all below stages):
 * Design
 * Review
 * Fabrication
+* Testing
+* Integration
 * Accepted / Declined
 
 Generally large 'issues' (projects) would go through each step, but smaller 'issues' (tasks) may skip one or many steps
